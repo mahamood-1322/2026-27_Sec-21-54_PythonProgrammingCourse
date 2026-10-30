@@ -1,0 +1,7 @@
+#python program to demonstrate type conversion (int, float, string)
+x = int(input("Enter an integer: "))
+y = float(x)
+z = str(x)
+print("Integer:", x)
+print("Float:", y)
+print("String:", z)
